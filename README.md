@@ -1,5 +1,4 @@
-# kotlin-learnproject-cn
-Kotlin学习资料整理
+# Kotlin学习资料整理
 
 ### Kotlin官方网站 
 

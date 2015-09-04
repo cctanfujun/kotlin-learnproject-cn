@@ -16,6 +16,10 @@
 
 LeanPub地址：https://leanpub.com/kotlin-for-android-developers  
 
+### UsingProjectKotlinforAndroid（JakeWharton写的书）
+
+百度云地址：http://pan.baidu.com/s/1eQEYro2
+
 ### 翻译文章
 
 介绍Kotlin基础使用的4篇文章：  

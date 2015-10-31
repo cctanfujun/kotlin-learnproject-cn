@@ -28,7 +28,7 @@ LeanPub地址：https://leanpub.com/kotlin-for-android-developers
 * [使用Kotlin开发Android应用（II）：创建新工程](http://www.jianshu.com/p/03bba63474f7)
 * [使用Kotlin开发Android应用（III）：扩展函数和默认值](http://www.jianshu.com/p/b0d4da2c8c5f)
 * [使用Kotlin开发Android应用（IV）：自定义视图和Android扩展](http://www.jianshu.com/p/751b4ab19d2a)
-
+<br>
 * [Kotlin: Java 6 废土中的一线希望](https://realm.io/cn/news/droidcon-michael-pardo-kotlin/)
  
 
